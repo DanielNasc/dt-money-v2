@@ -15,6 +15,22 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2022-08-19T23:20:18.776Z"
+    },
+    {
+      "description": "pei",
+      "price": 222,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-08-22T23:50:32.421Z",
+      "id": 3
+    },
+    {
+      "description": "pow",
+      "price": 2323,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-08-23T00:09:49.800Z",
+      "id": 4
     }
   ]
 }
